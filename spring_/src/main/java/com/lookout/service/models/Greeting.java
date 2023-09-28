@@ -1,4 +1,4 @@
-package com.example.service.models;
+package com.lookout.service.models;
 
 public class Greeting {
     public String message;

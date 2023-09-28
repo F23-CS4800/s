@@ -1,4 +1,4 @@
-package com.example.service;
+package com.lookout.service;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

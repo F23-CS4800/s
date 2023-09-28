@@ -1,7 +1,6 @@
-package com.example.service.controller;
+package com.lookout.service.controller;
 
-import com.example.service.models.Greeting;
-import org.springframework.ui.Model;
+import com.lookout.service.models.Greeting;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.bind.annotation.GetMapping;
 
