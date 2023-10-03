@@ -32,6 +32,10 @@
 			<artifactId>commons-io</artifactId>
 			<version>2.13.0</version>
 		</dependency>
+		<dependency>
+			<groupId>com.google.maps</groupId>
+			<artifactId>google-maps-services</artifactId>
+			<version>0.17.0</version>
 
 
 		<dependency>
