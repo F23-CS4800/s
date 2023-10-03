@@ -28,13 +28,9 @@ public class JS {
                 // get the value from href attribute
                 System.out.println("\nlink : " + link.attr("href"));
                 System.out.println("text : " + link.text());
-
             }
-
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
-
 }
