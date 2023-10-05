@@ -11,7 +11,7 @@ public class GreetingControllerTest {
 
     @Test
     public void testGetMessageWithDefaultValue() {
-        // Create an instance of your controller
+        // Create an instance of controller
         IController yourController = new IController();
 
         // Set up a default value for the @RequestParam
@@ -26,7 +26,7 @@ public class GreetingControllerTest {
 
     @Test
     public void testGetMessageWithCustomValue() {
-        // Create an instance of your controller
+        // Create an instance of controller
       IController yourController = new IController();
 
         // Set up a custom value for the @RequestParam
